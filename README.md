@@ -3,7 +3,7 @@ Customizable capture point/terminal system for team-based games, managing zone c
 Perfect for King of the Hill, Domination, Hardpoint, and custom game modes. Built with ZonePlus integration and fully customizable gameplay mechanics.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Wally](https://img.shields.io/badge/Wally-0.2.3-blue)](https://wally.run/package/codjo3/terminal)
+[![Wally](https://img.shields.io/badge/Wally-0.2.4-blue)](https://wally.run/package/codjo3/terminal)
 
 ## Installation
 
@@ -11,7 +11,7 @@ Perfect for King of the Hill, Domination, Hardpoint, and custom game modes. Buil
 Add to your `wally.toml`:
 ```toml
 [dependencies]
-terminal = "codjo3/terminal@0.2.3"
+terminal = "codjo3/terminal@0.2.4"
 ```
 
 Then run:
